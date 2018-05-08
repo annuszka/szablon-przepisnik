@@ -1,0 +1,1 @@
+Wstępny poglądowy szablon aplikacji Przepiśnik do pracy inżynierskiej.
